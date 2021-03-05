@@ -21,3 +21,11 @@
   <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 <br />
+<p align="center">
+<img src="https://img.shields.io/badge/@Enertix%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0x33t@protonmail.ch)
+[![Twitter](https://img.shields.io/badge/-Enertix%20-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0x33t)
+[![SiteWeb](https://img.shields.io/static/v1?&label=Site&message=ENERTIX.ME&color=blue?&style=for-the-badge)](https://0x33t.github.io)
+
+</p>
