@@ -22,7 +22,7 @@
 </p>
 <br />
 <p align="center">
-[![Discord](https://img.shields.io/badge/@0x33t%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)]
+[![Discord](https://img.shields.io/badge/@0x33t%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](0x33t)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0x33t@protonmail.ch)
 [![Twitter](https://img.shields.io/badge/-Enertix%20-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0x33t)
 </p>
